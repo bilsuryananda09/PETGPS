@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9849304338",
+    "firebase_url": "https://petgpstestdb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "petgpstestdb",
+    "storage_bucket": "petgpstestdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9849304338:android:d0054e39631ffcfa366fcb",
+        "android_client_info": {
+          "package_name": "com.example.petgps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9849304338-4724vkga9g7n0kmj5pc96ouijdmai3kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJy9G6iFBp5lboECa2wkrS_QuSuZxp2cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9849304338-4724vkga9g7n0kmj5pc96ouijdmai3kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
